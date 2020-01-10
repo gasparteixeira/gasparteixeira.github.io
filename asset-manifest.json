@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rest-api/static/css/main.d1b05096.chunk.css",
+    "main.js": "/rest-api/static/js/main.2f7c5bc9.chunk.js",
+    "main.js.map": "/rest-api/static/js/main.2f7c5bc9.chunk.js.map",
+    "runtime-main.js": "/rest-api/static/js/runtime-main.9e619214.js",
+    "runtime-main.js.map": "/rest-api/static/js/runtime-main.9e619214.js.map",
+    "static/js/2.25ed1a27.chunk.js": "/rest-api/static/js/2.25ed1a27.chunk.js",
+    "static/js/2.25ed1a27.chunk.js.map": "/rest-api/static/js/2.25ed1a27.chunk.js.map",
+    "index.html": "/rest-api/index.html",
+    "precache-manifest.e1171cbf01d86bbcb0e83318b819d697.js": "/rest-api/precache-manifest.e1171cbf01d86bbcb0e83318b819d697.js",
+    "service-worker.js": "/rest-api/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/rest-api/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.25ed1a27.chunk.js.LICENSE": "/rest-api/static/js/2.25ed1a27.chunk.js.LICENSE",
+    "static/media/logo.svg": "/rest-api/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e619214.js",
+    "static/js/2.25ed1a27.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.2f7c5bc9.chunk.js"
+  ]
+}
